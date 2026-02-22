@@ -1,0 +1,14 @@
+SPython features:
+
+- Pretty much all arithmetic operations 
+- Variables (Strings or integers) 
+- Print statements 
+- While loops 
+- Comparisons
+
+Notable absences and rules:
+- There is no and/ or with while statements
+- Varibles cannot be empty nor can they be a string of length 0 
+- Strings must be declared with 'text' not "text"
+- There are no tuples or lists 
+- Indentation must be 4 spaces 
